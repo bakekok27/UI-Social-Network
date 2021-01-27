@@ -1,0 +1,29 @@
+Keterangan file dalam folder 20201113_sdmkg_inisiatif
+Studi jejaring mahasiswa baru MRAD angkatan 2020 tanggal 7-14 Okt 2020
+
+20201209_sdmkg_dataraw.xls          Excel berisi data 6 sheet (n=20)
+                                    Data dictionary: 38 var 
+                                    rating pria oleh wanita: 18 var, n=2
+                                    rating wanita oleh pria: 2 var, n=18
+                                    Edgelist aka: 11 var, baris=380
+                                    Edgelist non: 11 var, baris=380
+                                    vertexlist: 15 var, n=20
+
+20201113_sdmkg_inisiatif.R             sintaks untuk 6 bagian 
+                                    load library
+                                    load data emrada.csv, emradnon.csv, 
+                                    vmrad.csv
+                                    sintaks obyek igraph                               
+                                    sintaks analsis statistik deskriptif
+                                    sintaks visualisasi graph
+                                    sintaks uji hipotesis
+
+emrada.csv                          edgelist akademik
+emradnon.csv                        edgelist non-akademik
+vmrad.csv                           vertexlist
+gambar				    Folder berisi 5 gambar
+				    Gambar graf & tabel perhitungan betweenness, 
+				    Graf pagerank, pengukuran personal initiative,
+ 				    Item Pengukuran self-efficacy
+
+11111111111222222222233333333333444444444455555555556666666666777777777788888888
